@@ -474,7 +474,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.brev.CleaningApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/bogdanbarbulescu/Desktop/CleaningApp/CleaningApp/CleaningApp-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/bogdanbarbulescu/Desktop/2_nd/1st_Version/CleaningApp/CleaningApp-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 2.3;
 			};
@@ -491,7 +491,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.brev.CleaningApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/bogdanbarbulescu/Desktop/CleaningApp/CleaningApp/CleaningApp-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/bogdanbarbulescu/Desktop/2_nd/1st_Version/CleaningApp/CleaningApp-Bridging-Header.h";
 				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
